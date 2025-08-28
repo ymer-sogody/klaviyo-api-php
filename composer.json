@@ -1,5 +1,5 @@
 {
-    "name": "klaviyo/api",
+    "name": "ymer-sogody/klaviyo-api-php",
     "version": "15.0.0",
     "description": "PHP SDK for Klaviyo's API.",
     "keywords": [
